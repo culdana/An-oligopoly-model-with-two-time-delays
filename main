@@ -1,4 +1,4 @@
-(* Definition of the evolution function for the system's state *)
+(* Definition of the evolution function for the system *)
 Fun[q_] := 
  Flatten[{
    (* First variable (q₀) update rule *)
